@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aliahmed650.github.io/noor-azkar./sitemap.xml
